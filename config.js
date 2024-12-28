@@ -18,8 +18,8 @@ global.DATABASE_URL = process.env.DATABASE_URL || "false" || "mongodb+srv://mohs
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/GiftedTerry/suhailmd-2.0";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07" ; 
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaR2hFSFXUuYmxbRy83Q";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaR2hFSFXUuYmxbRy83Q" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.ibb.co/TgwRyHR/Ephoto360-com-166de101e03cd7.jpg" || "https://i.ibb.co/bH1kbX0/a4c0b1af253197d4837ff6760d5b81c0.jpg" ; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "SuccessfulTerry 💵✅🚬" 
 
